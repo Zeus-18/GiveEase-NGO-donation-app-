@@ -11,14 +11,6 @@ Welcome to the NGO Donation App, a mobile application developed using Android St
 
 - The app offers an intuitive and user-friendly interface, making the donation process easy and accessible for all.
 
-### 2. Secure Transactions
-
-- We prioritize the security of your transactions. All donations are processed through a secure payment gateway to ensure the safety of your financial information.
-
-### 3. Multiple Payment Options
-
-- Choose from a variety of payment methods, including credit/debit cards, mobile wallets, and more, to make your donation process convenient.
-
 ### 4. Project Information
 
 - Stay informed about our ongoing projects and campaigns. The app provides detailed information about the causes your donations support.
@@ -35,12 +27,6 @@ Welcome to the NGO Donation App, a mobile application developed using Android St
 
 - Share your contribution and encourage others to join our mission. The app allows you to share your donation milestones on social media.
 
-## Getting Started
-
-### Installation
-
-1. Download the NGO Donation App from the Google Play Store.
-2. Install the app on your Android device.
 
 ### Usage
 
@@ -49,9 +35,6 @@ Welcome to the NGO Donation App, a mobile application developed using Android St
 3. Make a secure donation to your selected cause.
 4. Stay connected with updates and notifications.
 
-## Contributing
-
-If you're interested in contributing to the development of this app, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Support and Contact
 
