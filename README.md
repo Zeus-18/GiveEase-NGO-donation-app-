@@ -36,8 +36,4 @@ Welcome to the NGO Donation App, a mobile application developed using Android St
 4. Stay connected with updates and notifications.
 
 
-## Support and Contact
 
-For any queries, feedback, or support, please contact our support team at support@ngodonationapp.org.
-
-Thank you for choosing to be a part of positive change with the NGO Donation App. Together, we can make a difference!
